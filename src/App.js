@@ -19,10 +19,10 @@ function App() {
       <Router>
         <ScrollTop />
         <Routes>
-          <Route path="/shadowed-histories" element={<HomePage />} />
-          <Route path="/shadowed-histories/Post" element={<Post />} />
-          <Route path="/shadowed-histories/About" element={<About />} />
-          <Route path="/shadowed-histories/Contact" element={<Contact />} />
+          <Route path="/" element={<HomePage />} />
+          <Route path="/Post" element={<Post />} />
+          <Route path="/About" element={<About />} />
+          <Route path="/Contact" element={<Contact />} />
         </Routes>
       </Router>
     </>
