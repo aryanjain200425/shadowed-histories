@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shadowed-histories/static/css/main.f855e6bc.css",
+    "main.js": "/shadowed-histories/static/js/main.1280b0dd.js",
+    "static/js/453.ded539da.chunk.js": "/shadowed-histories/static/js/453.ded539da.chunk.js",
+    "static/media/logo.svg": "/shadowed-histories/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shadowed-histories/index.html",
+    "main.f855e6bc.css.map": "/shadowed-histories/static/css/main.f855e6bc.css.map",
+    "main.1280b0dd.js.map": "/shadowed-histories/static/js/main.1280b0dd.js.map",
+    "453.ded539da.chunk.js.map": "/shadowed-histories/static/js/453.ded539da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1280b0dd.js"
+  ]
+}
