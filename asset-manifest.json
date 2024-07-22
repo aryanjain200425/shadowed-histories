@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/shadowed-histories/static/css/main.ca7e6828.css",
-    "main.js": "/shadowed-histories/static/js/main.60efdaf9.js",
-    "static/js/186.a5d8c698.chunk.js": "/shadowed-histories/static/js/186.a5d8c698.chunk.js",
-    "static/js/223.d59d7a97.chunk.js": "/shadowed-histories/static/js/223.d59d7a97.chunk.js",
-    "static/js/745.f44685b9.chunk.js": "/shadowed-histories/static/js/745.f44685b9.chunk.js",
-    "static/js/453.ded539da.chunk.js": "/shadowed-histories/static/js/453.ded539da.chunk.js",
-    "static/media/background-lg.png": "/shadowed-histories/static/media/background-lg.28fb44fa031705f3b8e8.png",
-    "static/media/tesla.jpg": "/shadowed-histories/static/media/tesla.6981f009cb8815185c63.jpg",
-    "static/media/antikythera.jpg": "/shadowed-histories/static/media/antikythera.45662d261f4b56e700c1.jpg",
-    "static/media/espionage.jpg": "/shadowed-histories/static/media/espionage.893ef1c2dcf6a999c2b0.jpg",
-    "static/media/background-md.jpg": "/shadowed-histories/static/media/background-md.0552f88c98583c3c4536.jpg",
-    "static/media/background-sm.jpg": "/shadowed-histories/static/media/background-sm.96e6a42d3a2a49bbad7e.jpg",
-    "static/media/designer.jpeg": "/shadowed-histories/static/media/designer.94f26cfb02f986384588.jpeg",
-    "index.html": "/shadowed-histories/index.html",
-    "main.ca7e6828.css.map": "/shadowed-histories/static/css/main.ca7e6828.css.map",
-    "main.60efdaf9.js.map": "/shadowed-histories/static/js/main.60efdaf9.js.map",
-    "453.ded539da.chunk.js.map": "/shadowed-histories/static/js/453.ded539da.chunk.js.map"
+    "main.css": "/static/css/main.ca7e6828.css",
+    "main.js": "/static/js/main.eef9f2be.js",
+    "static/js/186.a5d8c698.chunk.js": "/static/js/186.a5d8c698.chunk.js",
+    "static/js/223.d59d7a97.chunk.js": "/static/js/223.d59d7a97.chunk.js",
+    "static/js/745.f44685b9.chunk.js": "/static/js/745.f44685b9.chunk.js",
+    "static/js/453.ded539da.chunk.js": "/static/js/453.ded539da.chunk.js",
+    "static/media/background-lg.png": "/static/media/background-lg.28fb44fa031705f3b8e8.png",
+    "static/media/tesla.jpg": "/static/media/tesla.6981f009cb8815185c63.jpg",
+    "static/media/antikythera.jpg": "/static/media/antikythera.45662d261f4b56e700c1.jpg",
+    "static/media/espionage.jpg": "/static/media/espionage.893ef1c2dcf6a999c2b0.jpg",
+    "static/media/background-md.jpg": "/static/media/background-md.0552f88c98583c3c4536.jpg",
+    "static/media/background-sm.jpg": "/static/media/background-sm.96e6a42d3a2a49bbad7e.jpg",
+    "static/media/designer.jpeg": "/static/media/designer.94f26cfb02f986384588.jpeg",
+    "index.html": "/index.html",
+    "main.ca7e6828.css.map": "/static/css/main.ca7e6828.css.map",
+    "main.eef9f2be.js.map": "/static/js/main.eef9f2be.js.map",
+    "453.ded539da.chunk.js.map": "/static/js/453.ded539da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca7e6828.css",
-    "static/js/main.60efdaf9.js"
+    "static/js/main.eef9f2be.js"
   ]
 }
