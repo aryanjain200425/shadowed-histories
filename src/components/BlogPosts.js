@@ -16,7 +16,7 @@ export const BlogPosts = () => {
             <h2 className="text-2xl font-bold mb-2">{post.title}</h2>
             <p className="text-gray-700 pb-4 ">{post.description}</p>
             <Link
-              to={`/Post`}
+              to={`/shadowed-histories/Post`}
               state={{
                 title: post.title,
                 date: post.date,

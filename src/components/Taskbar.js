@@ -14,7 +14,7 @@ export const Taskbar = ({ atHome }) => {
             if (atHome) {
               scrollToSection("home");
             } else {
-              window.location.href = "/#blog-section";
+              window.location.href = "/shadowed-histories/#blog-section";
             }
           }}
           className="text-2xl font-bold"
@@ -27,7 +27,7 @@ export const Taskbar = ({ atHome }) => {
               if (atHome) {
                 scrollToSection("home");
               } else {
-                window.location.href = "/#blog-section";
+                window.location.href = "/shadowed-histories/#blog-section";
               }
             }}
             className="hover:text-yellow-500"
@@ -39,17 +39,23 @@ export const Taskbar = ({ atHome }) => {
               if (atHome) {
                 scrollToSection("blog-section");
               } else {
-                window.location.href = "/#blog-section";
+                window.location.href = "/shadowed-histories/#blog-section";
               }
             }}
             className="hover:text-yellow-500"
           >
             Posts
           </button>
-          <Link to={`/About`} className="hover:text-yellow-500">
+          <Link
+            to={`/shadowed-histories/About`}
+            className="hover:text-yellow-500"
+          >
             About
           </Link>
-          <Link to={`/Contact`} className="hover:text-yellow-500">
+          <Link
+            to={`/shadowed-histories/Contact`}
+            className="hover:text-yellow-500"
+          >
             Contact
           </Link>
         </div>

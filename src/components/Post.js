@@ -80,7 +80,7 @@ export const Post = () => {
               {/* First Link */}
               <div>
                 <Link
-                  to={`/Post`}
+                  to={`/shadowed-histories/Post`}
                   state={{
                     title: first.title,
                     date: first.date,
@@ -105,7 +105,7 @@ export const Post = () => {
               {/* Second Link */}
               <div>
                 <Link
-                  to={`/Post`}
+                  to={`/shadowed-histories/Post`}
                   state={{
                     title: second.title,
                     date: second.date,
@@ -130,7 +130,7 @@ export const Post = () => {
               {/* Third Link */}
               <div>
                 <Link
-                  to={`/Post`}
+                  to={`/shadowed-histories/Post`}
                   state={{
                     title: third.title,
                     date: third.date,
