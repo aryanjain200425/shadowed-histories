@@ -52,6 +52,9 @@ export const Taskbar = ({ atHome }) => {
           <Link to={`/Contact`} className="hover:text-yellow-500">
             Contact
           </Link>
+          <Link to={`/PrivacyPolicy`} className="hover:text-yellow-500">
+            Privacy Policy
+          </Link>
         </div>
       </div>
     </nav>

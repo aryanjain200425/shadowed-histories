@@ -3,8 +3,8 @@ import { Post } from "./components/Post";
 import { About } from "./components/About";
 import { Contact } from "./components/Contact";
 import { ScrollTop } from "./components/ScrollTop";
-
 import { HomePage } from "./components/HomePage";
+import { PrivacyPolicy } from "./components/PrivacyPolicy";
 
 import {
   BrowserRouter as Router,
@@ -23,6 +23,7 @@ function App() {
           <Route path="/Post" element={<Post />} />
           <Route path="/About" element={<About />} />
           <Route path="/Contact" element={<Contact />} />
+          <Route path="/PrivacyPolicy" element={<PrivacyPolicy />} />
         </Routes>
       </Router>
     </>
