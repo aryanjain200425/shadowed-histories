@@ -35,5 +35,18 @@
     "content_1": "Tesla was a man of remarkable foresight. He imagined a world where information could be transmitted wirelessly across vast distances, an idea that paved the way for modern radio, television, and even the internet. Despite his groundbreaking work, Tesla's life was marked by struggle and financial hardship. Many of his ideas were ahead of their time, and he often faced skepticism from his contemporaries.",
     "subheading_2": "The Forgotten Inventions",
     "content_2": "While Tesla is best known for his work on AC power, he also made significant contributions to other fields. His experiments with X-rays predated Wilhelm Roentgen's discovery, and he even designed a prototype for a vertical take-off and landing aircraft, a precursor to the modern helicopter. Despite these achievements, many of Tesla's innovations remain obscure, overshadowed by his more famous contemporaries."
+  },
+
+  {
+    "key": 7,
+    "title": "The Mysterious Voynich Manuscript: Decoding an Unsolved Enigma",
+    "description": "Uncover the mystery of the Voynich Manuscript, an ancient book that has baffled experts for centuries.",
+    "date": "July 28, 2024",
+    "imagePath": "./imgs/tesla.jpg",
+    "introduction": "The Voynich Manuscript, often hailed as the world's most mysterious book, has baffled cryptographers, historians, and linguists for over a century. Discovered in 1912 by antique book dealer Wilfrid Voynich, this enigmatic manuscript is filled with strange illustrations and an undeciphered script. Despite numerous attempts to crack its code, the contents and origins of the Voynich Manuscript remain an unsolved puzzle, fueling endless speculation and intrigue.",
+    "subheading_1": "The Manuscript's Enigmatic Content",
+    "content_1": "The Voynich Manuscript is composed of approximately 240 pages, written in an unknown script that has come to be known as \"Voynichese.\" The text is accompanied by a myriad of illustrations that range from botanical drawings to astrological charts, and even to what appear to be alchemical diagrams. The botanical section features detailed drawings of plants that do not correspond to any known species, adding to the manuscript's mystique. The astronomical and astrological sections contain diagrams of celestial bodies and zodiac symbols, suggesting a potential link to medieval or Renaissance beliefs and practices. However, the exact purpose and meaning of these illustrations remain elusive. Various theories propose that the manuscript could be a pharmacopoeia, a scientific treatise, or even a hoax. Yet, no definitive evidence has emerged to support any single theory.",
+    "subheading_2": "The Unyielding Code",
+    "content_2": "Over the years, the Voynich Manuscript has attracted the attention of some of the world's best cryptographers, including those who successfully broke codes during both World Wars. Despite their efforts, the manuscript's script has resisted all attempts at decryption. Some researchers believe that the text is written in a complex cipher or constructed language, while others speculate that it might be an elaborate code or a sophisticated forgery designed to mystify its readers. Modern techniques, such as computer analysis and AI, have been employed to uncover patterns in the text, but these have yet to yield a breakthrough. The manuscript has also been subjected to radiocarbon dating, which places its creation in the early 15th century, thereby ruling out more recent forgeries. Nonetheless, the mystery persists, and the Voynich Manuscript continues to captivate the imaginations of those who encounter it."
   }
 ]
