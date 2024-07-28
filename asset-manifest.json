@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ca7e6828.css",
-    "main.js": "/static/js/main.a3818ddc.js",
+    "main.js": "/static/js/main.b8739ce0.js",
     "static/js/186.ed0993d3.chunk.js": "/static/js/186.ed0993d3.chunk.js",
     "static/js/223.b4d5f6e2.chunk.js": "/static/js/223.b4d5f6e2.chunk.js",
     "static/js/745.c5060685.chunk.js": "/static/js/745.c5060685.chunk.js",
@@ -15,11 +15,11 @@
     "static/media/antikythera.jpg": "/static/media/antikythera.bd0ea73ebc78caddd379.jpg",
     "index.html": "/index.html",
     "main.ca7e6828.css.map": "/static/css/main.ca7e6828.css.map",
-    "main.a3818ddc.js.map": "/static/js/main.a3818ddc.js.map",
+    "main.b8739ce0.js.map": "/static/js/main.b8739ce0.js.map",
     "453.ded539da.chunk.js.map": "/static/js/453.ded539da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca7e6828.css",
-    "static/js/main.a3818ddc.js"
+    "static/js/main.b8739ce0.js"
   ]
 }
