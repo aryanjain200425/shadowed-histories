@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshadowed_histories=self.webpackChunkshadowed_histories||[]).push([[880],{880:(s,e,a)=>{s.exports=a.p+"static/media/voynich.0493d773c42c61aa5103.jpg"}}]);
