@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshadowed_histories=self.webpackChunkshadowed_histories||[]).push([[504],{504:(s,e,i)=>{s.exports=i.p+"static/media/biro.751588ebf3c43f177c8b.jpg"}}]);
