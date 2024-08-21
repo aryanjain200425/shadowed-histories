@@ -99,7 +99,7 @@ export const Post = () => {
               {/* First Link */}
               <div>
                 <Link
-                  to={`/Post`}
+                  to={`/posts/${first.key}`}
                   state={{
                     title: first.title,
                     date: first.date,
@@ -124,7 +124,7 @@ export const Post = () => {
               {/* Second Link */}
               <div>
                 <Link
-                  to={`/Post`}
+                  to={`/posts/${second.key}`}
                   state={{
                     title: second.title,
                     date: second.date,
@@ -149,7 +149,7 @@ export const Post = () => {
               {/* Third Link */}
               <div>
                 <Link
-                  to={`/Post`}
+                  to={`/posts/${third.key}`}
                   state={{
                     title: third.title,
                     date: third.date,
