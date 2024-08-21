@@ -27,9 +27,7 @@ export const Post = () => {
   const chosenPost = posts[postId];
 
   if (!chosenPost) {
-    // If post not found, redirect to a 404 or a default post
     window.location.href = "/#blog-section";
-    return null;
   }
 
   title = chosenPost.title;
