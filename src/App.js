@@ -15,11 +15,10 @@ function App() {
         <ScrollTop />
         <Routes>
           <Route path="/" element={<HomePage />} />
-          {/* <Route path="/Post" element={<Post />} /> */}
           <Route path="/posts/:postId" element={<Post />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/privacy_policy" element={<PrivacyPolicy />} />
+          <Route path="/privacypolicy" element={<PrivacyPolicy />} />
         </Routes>
       </Router>
     </>
