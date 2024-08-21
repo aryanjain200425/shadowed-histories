@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshadowed_histories=self.webpackChunkshadowed_histories||[]).push([[23],{23:(s,e,i)=>{s.exports=i.p+"static/media/ignaz.862158fd4bbf6d0ef63c.jpg"}}]);

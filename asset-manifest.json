@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.ca7e6828.css",
-    "main.js": "/static/js/main.93d02d9d.js",
+    "main.js": "/static/js/main.a46000ba.js",
     "static/js/186.ed0993d3.chunk.js": "/static/js/186.ed0993d3.chunk.js",
-    "static/js/504.a34885b2.chunk.js": "/static/js/504.a34885b2.chunk.js",
     "static/js/223.b4d5f6e2.chunk.js": "/static/js/223.b4d5f6e2.chunk.js",
+    "static/js/23.844445f3.chunk.js": "/static/js/23.844445f3.chunk.js",
     "static/js/329.6ca9e829.chunk.js": "/static/js/329.6ca9e829.chunk.js",
     "static/js/621.23ddd2c8.chunk.js": "/static/js/621.23ddd2c8.chunk.js",
     "static/js/745.c5060685.chunk.js": "/static/js/745.c5060685.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/453.ded539da.chunk.js": "/static/js/453.ded539da.chunk.js",
     "static/media/background-lg.png": "/static/media/background-lg.28fb44fa031705f3b8e8.png",
     "static/media/voynich.jpg": "/static/media/voynich.0493d773c42c61aa5103.jpg",
-    "static/media/biro.jpg": "/static/media/biro.751588ebf3c43f177c8b.jpg",
+    "static/media/ignaz.jpg": "/static/media/ignaz.862158fd4bbf6d0ef63c.jpg",
     "static/media/laszla.jpg": "/static/media/laszla.751588ebf3c43f177c8b.jpg",
     "static/media/lamarr.jpg": "/static/media/lamarr.04ed1cfdfe239ba915e1.jpg",
     "static/media/background-md.jpg": "/static/media/background-md.0552f88c98583c3c4536.jpg",
@@ -23,11 +23,11 @@
     "static/media/antikythera.jpg": "/static/media/antikythera.bd0ea73ebc78caddd379.jpg",
     "index.html": "/index.html",
     "main.ca7e6828.css.map": "/static/css/main.ca7e6828.css.map",
-    "main.93d02d9d.js.map": "/static/js/main.93d02d9d.js.map",
+    "main.a46000ba.js.map": "/static/js/main.a46000ba.js.map",
     "453.ded539da.chunk.js.map": "/static/js/453.ded539da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca7e6828.css",
-    "static/js/main.93d02d9d.js"
+    "static/js/main.a46000ba.js"
   ]
 }
