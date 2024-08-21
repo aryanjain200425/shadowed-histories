@@ -25,7 +25,7 @@
   },
 
   {
-    "key": 6,
+    "key": 3,
     "title": "The Man Who Invented the Modern World: Nikola Tesla",
     "description": "Learn about the life and work of the legendary inventor.",
     "date": "July 12, 2024",
@@ -38,7 +38,7 @@
   },
 
   {
-    "key": 7,
+    "key": 4,
     "title": "The Mysterious Voynich Manuscript: Decoding an Unsolved Enigma",
     "description": "Uncover the mystery of the Voynich Manuscript, an ancient book that has baffled experts for centuries.",
     "date": "July 28, 2024",
@@ -50,7 +50,7 @@
     "content_2": "Over the years, the Voynich Manuscript has attracted the attention of some of the world's best cryptographers, including those who successfully broke codes during both World Wars. Despite their efforts, the manuscript's script has resisted all attempts at decryption. Some researchers believe that the text is written in a complex cipher or constructed language, while others speculate that it might be an elaborate code or a sophisticated forgery designed to mystify its readers. Modern techniques, such as computer analysis and AI, have been employed to uncover patterns in the text, but these have yet to yield a breakthrough. The manuscript has also been subjected to radiocarbon dating, which places its creation in the early 15th century, thereby ruling out more recent forgeries. Nonetheless, the mystery persists, and the Voynich Manuscript continues to captivate the imaginations of those who encounter it."
   },
   {
-    "key": 8,
+    "key": 5,
     "title": "The Forgotten Story of László Bíró: The Man Who Revolutionized Writing",
     "description": "An inventor who revolutionized writing with the creation of the ballpoint pen, transforming the way we communicate.",
     "date": "August 14, 2024",
@@ -62,7 +62,7 @@
     "content_2": "In the early 1930s, László Bíró, along with his brother György, who was a chemist, began working on a pen that utilized a small ball bearing in its tip. This ball would rotate as the pen moved across the paper, picking up ink from a reservoir and depositing it smoothly onto the page. The ball acted as a buffer between the ink and the paper, preventing leaks and controlling the flow of ink, which made writing faster and cleaner. After years of development, Bíró patented his ballpoint pen in 1938. However, the outbreak of World War II forced him to flee Hungary. He eventually settled in Argentina, where he continued to refine his invention. In 1943, he successfully patented the improved version of the ballpoint pen in Argentina, and it quickly gained popularity, particularly among military pilots who needed a pen that could write at high altitudes without leaking. Bíró’s invention revolutionized writing by making it more accessible and efficient. The ballpoint pen became a global success, adopted by people from all walks of life. However, despite its widespread use, the credit for this invention often goes unnoticed, with many unaware of the man behind the pen."
   },
   {
-    "key": 9,
+    "key": 6,
     "title": "The Silent Pioneer: Hedy Lamarr and the Birth of Modern Wireless Communication",
     "description": "Discover how Hedy Lamarr, a Hollywood actress, pioneered frequency-hopping technology, laying the foundation for Wi-Fi, Bluetooth, and GPS.",
     "date": "August 15, 2024",
@@ -74,7 +74,7 @@
     "content_2": "Hedy Lamarr’s frequency-hopping technology was initially overlooked by the military, largely due to the limitations of the era’s technology and perhaps also because it was difficult to believe that a Hollywood actress could contribute to such an advanced field. However, as technology progressed, her invention found new life. In the 1960s, during the Cuban Missile Crisis, the U.S. military began to explore the potential of Lamarr’s frequency-hopping system, and it became a key component in secure military communications. Fast forward to today, and the principles behind Lamarr’s invention are integral to the functioning of modern wireless communication systems. Technologies such as Wi-Fi, Bluetooth, and GPS all rely on frequency-hopping or spread-spectrum techniques to provide secure and reliable communication. Lamarr’s work, once dismissed and nearly forgotten, is now recognized as a critical innovation that paved the way for the connected world we live in today. Despite the delay in acknowledging her contributions, Hedy Lamarr’s legacy as a pioneer of modern communication technology is now firmly established, proving that true genius can emerge from the most unexpected places."
   },
   {
-    "key": 10,
+    "key": 7,
     "title": "Ignaz Semmelweis: The Doctor Who Fought for Hand Hygiene and Saved Lives",
     "description": "The 19th-century doctor whose advocacy for hand hygiene transformed medical practices and saved lives, despite facing fierce resistance from his peers.",
     "date": "August 16, 2024",

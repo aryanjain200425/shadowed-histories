@@ -4,12 +4,16 @@ import { Taskbar } from "./Taskbar";
 import posts from "../assets/allPosts.json";
 import { Link } from "react-router-dom";
 
+import { useParams } from "react-router-dom";
+
 import { useState, useEffect } from "react";
 
 export const Post = () => {
   const location = useLocation();
 
-  const {
+  const { postId } = useParams();
+
+  var {
     title,
     date,
     imagePath,
@@ -19,6 +23,23 @@ export const Post = () => {
     subheading_2,
     content_2,
   } = location.state || {};
+
+  const chosenPost = posts[postId];
+
+  if (!chosenPost) {
+    // If post not found, redirect to a 404 or a default post
+    window.location.href = "/#blog-section";
+    return null;
+  }
+
+  title = chosenPost.title;
+  date = chosenPost.date;
+  imagePath = chosenPost.imagePath;
+  introduction = chosenPost.introduction;
+  subheading_1 = chosenPost.subheading_1;
+  subheading_2 = chosenPost.subheading_2;
+  content_1 = chosenPost.content_1;
+  content_2 = chosenPost.content_2;
 
   const [imageSrc, setImageSrc] = useState(null);
 

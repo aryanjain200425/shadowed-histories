@@ -6,12 +6,7 @@ import { ScrollTop } from "./components/ScrollTop";
 import { HomePage } from "./components/HomePage";
 import { PrivacyPolicy } from "./components/PrivacyPolicy";
 
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  Navigate,
-} from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
@@ -20,10 +15,11 @@ function App() {
         <ScrollTop />
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="/Post" element={<Post />} />
-          <Route path="/About" element={<About />} />
-          <Route path="/Contact" element={<Contact />} />
-          <Route path="/PrivacyPolicy" element={<PrivacyPolicy />} />
+          {/* <Route path="/Post" element={<Post />} /> */}
+          <Route path="/posts/:postId" element={<Post />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/privacy_policy" element={<PrivacyPolicy />} />
         </Routes>
       </Router>
     </>
